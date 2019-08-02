@@ -1,0 +1,24 @@
+<experiment>
+  <configHash>2ae21cfe022d00bf45c482ccc5c6436b</configHash>
+  <outputDir>/home/christian/Desktop/AndroidRunner/android-runner/examples/NAPPA/output/2019.08.01_130226/</outputDir>
+  <subjects>
+    <subject>
+      <device>huaweinex</device>
+      <path>/home/christian/Desktop/AndroidRunner/android-runner/examples/NAPPA/Scripts/Hillfair/Instrumented/appteam.nith.hillffair.apk</path>
+      <aggregated>0</aggregated>
+    </subject>
+  </subjects>
+  <runsToRun>
+    <run runId="0">
+      <device>huaweinex</device>
+      <path>/home/christian/Desktop/AndroidRunner/android-runner/examples/NAPPA/Scripts/Hillfair/Instrumented/appteam.nith.hillffair.apk</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="1">
+      <device>huaweinex</device>
+      <path>/home/christian/Desktop/AndroidRunner/android-runner/examples/NAPPA/Scripts/Hillfair/Instrumented/appteam.nith.hillffair.apk</path>
+      <runCount>2</runCount>
+    </run>
+  </runsToRun>
+  <runsDone/>
+</experiment>
