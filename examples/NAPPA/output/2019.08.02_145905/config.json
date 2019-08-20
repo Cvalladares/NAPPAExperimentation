@@ -6,7 +6,7 @@
   "systrace_path": "/home/christian/Android/Sdk/platform-tools/systrace/systrace.py",
   "powerprofile_path": "/home/christian/Desktop/AndroidRunner/android-runner/power_profile.xml",
   "paths": [
-    "/home/christian/Desktop/AndroidRunner/android-runner/examples/NAPPA/Scripts/Hillfair/Instrumented/appteam.nith.hillffair.apk"
+    "/home/christian/Desktop/AndroidRunner/android-runner/examples/NAPPA/Scripts/Hillfair/Uninstrumented/appteam.nith.hillffair.apk"
   ],
   "profilers": {
     "trepn": {

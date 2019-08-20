@@ -126,7 +126,7 @@ class Trepn(Profiler):
         runs_total = reduce(lambda x, y: {k: v + y[k] for k, v in x.items()}, runs)
         return OrderedDict(sorted({k: v / len(runs) for k, v in runs_total.items()}.items(), key=lambda x: x[0]))
 
-    def aggregate_final(self, data_dir):
+    def aggregate_final(self, data_dirlogs_dir):
         rows = []
         for device in self.list_subdir(data_dir):
             row = OrderedDict({'device': device})
